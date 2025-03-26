@@ -3,9 +3,7 @@
         {
             "id": "1",
             "name": "Mombasa",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1208333,
             "region": "Coast"
@@ -13,9 +11,7 @@
         {
             "id": "2",
             "name": "Kwale",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 866820,
             "region": "Coast"
@@ -23,9 +19,7 @@
         {
             "id": "3",
             "name": "Kilifi",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1453787,
             "region": "Coast"
@@ -33,9 +27,7 @@
         {
             "id": "4",
             "name": "Tana River",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 315943,
             "region": "Coast"
@@ -43,9 +35,7 @@
         {
             "id": "5",
             "name": "Lamu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 143920,
             "region": "Coast"
@@ -53,9 +43,7 @@
         {
             "id": "6",
             "name": "Taita-Taveta",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 340671,
             "region": "Coast"
@@ -63,9 +51,7 @@
         {
             "id": "7",
             "name": "Garissa",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 841353,
             "region": "North Eastern"
@@ -73,9 +59,7 @@
         {
             "id": "8",
             "name": "Wajir",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 781263,
             "region": "North Eastern"
@@ -83,9 +67,7 @@
         {
             "id": "9",
             "name": "Mandera",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 867457,
             "region": "North Eastern"
@@ -93,9 +75,7 @@
         {
             "id": "10",
             "name": "Marsabit",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 459785,
             "region": "Eastern"
@@ -103,9 +83,7 @@
         {
             "id": "11",
             "name": "Isiolo",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 268002,
             "region": "Eastern"
@@ -113,9 +91,7 @@
         {
             "id": "12",
             "name": "Meru",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1545714,
             "region": "Eastern"
@@ -123,9 +99,7 @@
         {
             "id": "13",
             "name": "Tharaka-Nithi",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 393177,
             "region": "Eastern"
@@ -133,9 +107,7 @@
         {
             "id": "14",
             "name": "Embu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 608599,
             "region": "Eastern"
@@ -143,9 +115,7 @@
         {
             "id": "15",
             "name": "Kitui",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1136187,
             "region": "Eastern"
@@ -153,9 +123,7 @@
         {
             "id": "16",
             "name": "Machakos",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1421932,
             "region": "Eastern"
@@ -163,9 +131,7 @@
         {
             "id": "17",
             "name": "Makueni",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 987653,
             "region": "Eastern"
@@ -173,9 +139,7 @@
         {
             "id": "18",
             "name": "Nyandarua",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 638289,
             "region": "Central"
@@ -183,9 +147,7 @@
         {
             "id": "19",
             "name": "Nyeri",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 759164,
             "region": "Central"
@@ -193,9 +155,7 @@
         {
             "id": "20",
             "name": "Kirinyaga",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 610411,
             "region": "Central"
@@ -203,9 +163,7 @@
         {
             "id": "21",
             "name": "Murang'a",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1056640,
             "region": "Central"
@@ -213,9 +171,7 @@
         {
             "id": "22",
             "name": "Kiambu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 2417735,
             "region": "Central"
@@ -223,9 +179,7 @@
         {
             "id": "23",
             "name": "Turkana",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 926976,
             "region": "Rift Valley"
@@ -233,9 +187,7 @@
         {
             "id": "24",
             "name": "West Pokot",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 621241,
             "region": "Rift Valley"
@@ -243,9 +195,7 @@
         {
             "id": "25",
             "name": "Samburu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 310327,
             "region": "Rift Valley"
@@ -253,9 +203,7 @@
         {
             "id": "26",
             "name": "Trans Nzoia",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 990341,
             "region": "Rift Valley"
@@ -263,9 +211,7 @@
         {
             "id": "27",
             "name": "Uasin Gishu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1163186,
             "region": "Rift Valley"
@@ -273,9 +219,7 @@
         {
             "id": "28",
             "name": "Elgeyo/Marakwet",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 454480,
             "region": "Rift Valley"
@@ -283,9 +227,7 @@
         {
             "id": "29",
             "name": "Nandi",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 885711,
             "region": "Rift Valley"
@@ -293,9 +235,7 @@
         {
             "id": "30",
             "name": "Baringo",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 666763,
             "region": "Rift Valley"
@@ -303,9 +243,7 @@
         {
             "id": "31",
             "name": "Laikipia",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 518560,
             "region": "Rift Valley"
@@ -313,9 +251,7 @@
         {
             "id": "32",
             "name": "Nakuru",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 2162202,
             "region": "Rift Valley"
@@ -323,9 +259,7 @@
         {
             "id": "33",
             "name": "Narok",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1157873,
             "region": "Rift Valley"
@@ -333,9 +267,7 @@
         {
             "id": "34",
             "name": "Kajiado",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1117840,
             "region": "Rift Valley"
@@ -343,9 +275,7 @@
         {
             "id": "35",
             "name": "Kericho",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 901777,
             "region": "Rift Valley"
@@ -353,9 +283,7 @@
         {
             "id": "36",
             "name": "Bomet",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 875689,
             "region": "Rift Valley"
@@ -363,9 +291,7 @@
         {
             "id": "37",
             "name": "Kakamega",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1867579,
             "region": "Western"
@@ -373,9 +299,7 @@
         {
             "id": "38",
             "name": "Vihiga",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 590013,
             "region": "Western"
@@ -383,9 +307,7 @@
         {
             "id": "39",
             "name": "Bungoma",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1670570,
             "region": "Western"
@@ -393,9 +315,7 @@
         {
             "id": "40",
             "name": "Busia",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 893681,
             "region": "Western"
@@ -403,9 +323,7 @@
         {
             "id": "41",
             "name": "Siaya",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 993183,
             "region": "Nyanza"
@@ -413,9 +331,7 @@
         {
             "id": "42",
             "name": "Kisumu",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1155574,
             "region": "Nyanza"
@@ -423,9 +339,7 @@
         {
             "id": "43",
             "name": "Homa Bay",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1131950,
             "region": "Nyanza"
@@ -433,9 +347,7 @@
         {
             "id": "44",
             "name": "Migori",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1116436,
             "region": "Nyanza"
@@ -443,9 +355,7 @@
         {
             "id": "45",
             "name": "Kisii",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 1266860,
             "region": "Nyanza"
@@ -453,9 +363,7 @@
         {
             "id": "46",
             "name": "Nyamira",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 605576,
             "region": "Nyanza"
@@ -463,9 +371,7 @@
         {
             "id": "47",
             "name": "Nairobi City",
-            "progress": "0/100",
             "allocated": 0,
-            "notes": "",
             "lastAllocated": null,
             "population": 4397073,
             "region": "Nairobi"

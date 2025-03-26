@@ -1,0 +1,176 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e8f4ea;
+    color: #2e8b57;
+}
+
+header {
+    background-color: #2e8b57;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.search-section {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+#searchInput {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 300px;
+    font-size: 16px;
+}
+
+#searchBtn {
+    padding: 10px 20px;
+    background-color: #2e8b57;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#searchBtn:hover {
+    background-color: rgb(107, 80, 133);
+}
+
+.content-wrapper {
+    display: flex;
+    gap: 30px;
+}
+
+.counties-grid {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.county-card {
+    padding: 15px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 1px solid #ddd;
+}
+
+.county-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    border-color: #2e8b57;
+}
+
+.county-card.active {
+    background-color: #e1f5e6;
+    border-color: #2e8b57
+}
+
+.viewer-section {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#county-viewer {
+    padding: 15px;
+    font-size: 18px;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color: white;
+    text-align: center;
+}
+
+.allocation-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#allocation-amount {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#allocate-btn {
+    padding: 10px;
+    background-color: #2e8b57;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#allocate-btn:hover {
+    background-color: rgb(107, 80, 133);
+}
+
+#comment {
+    width: 100%;
+    min-height: 150px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    resize: vertical;
+    font-family: inherit;
+}
+.county-card .allocated {
+    color: #2e8b57;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.county-card .population {
+    color: #555;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.county-card .region {
+    color: #777;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: 3px;
+}
+
+.county-details {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.detail-item {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.detail-label {
+    font-weight: bold;
+    width: 150px;
+    color: #555;
+}
+
+.detail-value {
+    flex: 1;
+}
