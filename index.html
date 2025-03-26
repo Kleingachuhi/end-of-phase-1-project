@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesa kwa mfuko wa Mwananchi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav id="nav-bar">Pesa kwa mfuko wa Mwananchi</nav>
+    </header>
+
+    <main class="app-container">
+        <section class="search-section">
+            <input type="text" id="searchInput" placeholder="Search county..">
+            <button id="searchBtn">Search County</button>
+        </section>
+
+        <div class="content-wrapper">
+            <div id="counties-container" class="counties-grid"></div>
+            
+            <div class="viewer-section">
+                <input type="text" id="county-viewer" placeholder="Selected County" readonly>
+                <div class="allocation-controls">
+                    <label for="allocation-amount">Allocation Amount (KSH):</label>
+                    <input type="number" id="allocation-amount" min="0" step="1000">
+                    <button id="allocate-btn">Allocate Funds</button>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+</html>
