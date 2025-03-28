@@ -47,7 +47,7 @@ Pesa kwa mfuko wa Mwananchi is an enhanced web application designed for allocati
     start index.html  # Windows
     ```
 
-### Usage
+### Usage:
 
 1. **Search Counties**: Type the name of a county in the search bar and click the "Search County" button to filter the counties by name.
 2. **Select a County**: Click on a county name from the displayed list to select it. Detailed information (e.g., population, area) about the selected county will be displayed.
