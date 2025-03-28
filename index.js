@@ -20,15 +20,20 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (response.ok) {
                     return response.json();
                 } else {
-                    throw new Error('Could not quite fulfill your request');
+                    throw new Error('Could not quite fulfill your request mate');
                 }
             })
             .then(function(data) {
-                counties = data.counties;
-                displayCounties(counties);
+                console.log(' Gotten data:', data); 
+                if (data.counties) {
+                    counties = data.counties;
+                    displayCounties(counties);
+                } else {
+                    throw new Error('Invalid data structure: counties property missing');
+                }
             })
             .catch(function(error) {
-                console.error(error);
+                console.error('Error:', error);
                 countiesContainer.innerHTML = `<div class="error">Error loading county data</div>`;
             });
     }
